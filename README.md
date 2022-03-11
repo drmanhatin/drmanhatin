@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently employed as a Customer Engineer at Microsoft, focusing on serverless & PaaS. In my spare time I like to tinker on a phone app that I'm currently building with some friends.
+🔭 I’m currently employed as a Customer Engineer at Microsoft, focusing on serverless & PaaS services. In my spare time I like to tinker on a phone app that I'm currently building with some friends.
 
 💬 Ask me about Vue, Typescript, NodeJS, Progressive Web Apps, Active Directory B2C, Azure Functions.
 
