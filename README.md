@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently employed as a Customer Engineer at Microsoft, focusing on serverless & PaaS services. In my spare time I like to tinker on a phone app that I'm currently building with some friends.
+🔭 I’m currently employed as a Cloud Architect at ASML.
 
-💬 Ask me about Vue, Typescript, NodeJS, Progressive Web Apps, Active Directory B2C, Azure Functions.
+💬 Ask me about Vue, Typescript, NodeJS, Progressive Web Apps, Almost any Azure  service, and climbing 
 
 📫 How to reach me: https://linkedin.com/victorsanner
 
