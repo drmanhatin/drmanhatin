@@ -6,6 +6,6 @@
 
 📫 How to reach me: https://linkedin.com/victorsanner
 
-⚡ Fun fact: I built my first website using MSN Groups when I was about 8 years old. I tried (ofcourse without any success) to get javascript to work on the website.
+⚡ Fun fact: I built my first website using MSN Groups when I was 8 years old. I tried (ofcourse without any success) to get javascript to work on the website.
 
 
